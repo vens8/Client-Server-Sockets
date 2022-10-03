@@ -1,5 +1,5 @@
 /*
-Vens8
+Rahul Maddula
 */
 
 #include <stdio.h>
@@ -126,11 +126,13 @@ int main()
 
         // Send the computed factorial to the client
 		write(clientSocket, buffer, sizeof(buffer));
-
 	}
 
     // Close file
     fclose(results);
+
+    // Close client socket
+    close(clientSocket);
 
 	// Close server socket after handling all requests
 	close(serverSocket);
