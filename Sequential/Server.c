@@ -1,7 +1,3 @@
-/*
-Rahul Maddula
-*/
-
 #include <stdio.h>
 #include <netinet/in.h>
 #include <stdlib.h>
@@ -90,6 +86,7 @@ int main()
                 // If client is active and sent something valid, respond with factorial
                 printf("Client sent: %s\n", buffer);
                 long fact = factorial(atoi(buffer));
+                fprintf(results, "Client Address: %s\nClient Port: %d\nResult: %ld\n\n", inet_ntoa(clientAddress.sin_addr), ntohs(clientAddress.sin_port), fact);
                 sprintf(buffer, "%ld", fact);
                 printf("Sending to client: %s\n", buffer);
                 write(clientSocket, buffer, sizeof(buffer));
@@ -104,5 +101,5 @@ int main()
 
 	// Close server socket after handling all requests
 	close(serverSocket);
-    return 0;
+    	return 0;
 }
