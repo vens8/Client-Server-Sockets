@@ -23,8 +23,6 @@ long factorial(int x) {
 
 int main()
 {
-    // serverSocket = create_socket(serverSocket);
-
     char buffer[MAX];
     int serverSocket, clientSocket;
     struct sockaddr_in serverAddress, clientAddress;
@@ -101,5 +99,5 @@ int main()
 
 	// Close server socket after handling all requests
 	close(serverSocket);
-    	return 0;
+    return 0;
 }
