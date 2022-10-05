@@ -28,7 +28,6 @@ int main()
     struct sockaddr_in serverAddress, clientAddress;
     socklen_t clientLength;
     FILE *results;
-    results = fopen("results.txt", "w");
 
     serverSocket = socket(AF_INET, SOCK_STREAM, 0);
 	if (serverSocket < 0) {
@@ -37,7 +36,6 @@ int main()
 	}
 	printf("Successfully created a server socket.\n");
 	
-	// memset(&serverAddress, '\0', sizeof(serverAddress));
     bzero(&serverAddress, sizeof(serverAddress));
 
     // Specify address and port of server
@@ -84,7 +82,9 @@ int main()
                 // If client is active and sent something valid, respond with factorial
                 printf("Client sent: %s\n", buffer);
                 long fact = factorial(atoi(buffer));
+                results = fopen("results.txt", "w");
                 fprintf(results, "Client Address: %s\nClient Port: %d\nResult: %ld\n\n", inet_ntoa(clientAddress.sin_addr), ntohs(clientAddress.sin_port), fact);
+                fclose(results);
                 sprintf(buffer, "%ld", fact);
                 printf("Sending to client: %s\n", buffer);
                 write(clientSocket, buffer, sizeof(buffer));
@@ -99,5 +99,5 @@ int main()
 
 	// Close server socket after handling all requests
 	close(serverSocket);
-    return 0;
+    	return 0;
 }
