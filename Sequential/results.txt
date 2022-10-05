@@ -1,120 +1,79 @@
-Request No: 1
-Request Data: 1
-Request Result: 1
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 1
 
-Request No: 2
-Request Data: 2
-Request Result: 2
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 2
 
-Request No: 3
-Request Data: 3
-Request Result: 6
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 6
 
-Request No: 4
-Request Data: 4
-Request Result: 24
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 24
 
-Request No: 5
-Request Data: 5
-Request Result: 120
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 120
 
-Request No: 6
-Request Data: 6
-Request Result: 720
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 720
 
-Request No: 7
-Request Data: 7
-Request Result: 5040
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 5040
 
-Request No: 8
-Request Data: 8
-Request Result: 40320
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 40320
 
-Request No: 9
-Request Data: 9
-Request Result: 362880
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 362880
 
-Request No: 10
-Request Data: 10
-Request Result: 3628800
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 3628800
 
-Request No: 11
-Request Data: 11
-Request Result: 39916800
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 39916800
 
-Request No: 12
-Request Data: 12
-Request Result: 479001600
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 479001600
 
-Request No: 13
-Request Data: 13
-Request Result: 6227020800
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 6227020800
 
-Request No: 14
-Request Data: 14
-Request Result: 87178291200
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 87178291200
 
-Request No: 15
-Request Data: 15
-Request Result: 1307674368000
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 1307674368000
 
-Request No: 16
-Request Data: 16
-Request Result: 20922789888000
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 20922789888000
 
-Request No: 17
-Request Data: 17
-Request Result: 355687428096000
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 355687428096000
 
-Request No: 18
-Request Data: 18
-Request Result: 6402373705728000
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 6402373705728000
 
-Request No: 19
-Request Data: 19
-Request Result: 121645100408832000
-Port: 36895
-IP Address: 0.0.0.0
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 121645100408832000
 
-Request No: 20
-Request Data: 20
-Request Result: 2432902008176640000
-Port: 36895
-IP Address: 0.0.0.0
-
+Client Address: 127.0.0.1
+Client Port: 57132
+Result: 2432902008176640000
