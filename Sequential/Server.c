@@ -82,7 +82,7 @@ int main()
                 // If client is active and sent something valid, respond with factorial
                 printf("Client sent: %s\n", buffer);
                 long fact = factorial(atoi(buffer));
-                results = fopen("results.txt", "w");
+                results = fopen("results.txt", "a");
                 fprintf(results, "Client Address: %s\nClient Port: %d\nResult: %ld\n\n", inet_ntoa(clientAddress.sin_addr), ntohs(clientAddress.sin_port), fact);
                 fclose(results);
                 sprintf(buffer, "%ld", fact);
