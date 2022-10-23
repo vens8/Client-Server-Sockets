@@ -1,0 +1,4000 @@
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38220
+Factorial: 1
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38230
+Factorial: 1
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38236
+Factorial: 1
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38236
+Factorial: 2
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38236
+Factorial: 1
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38236
+Factorial: 2
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38236
+Factorial: 6
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38242
+Factorial: 1
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38242
+Factorial: 6
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38242
+Factorial: 2
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38246
+Factorial: 24
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38246
+Factorial: 6
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38248
+Factorial: 1
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38248
+Factorial: 1
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38248
+Factorial: 24
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38264
+Factorial: 1
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38264
+Factorial: 24
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38264
+Factorial: 2
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38264
+Factorial: 2
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38264
+Factorial: 120
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38264
+Factorial: 2
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38264
+Factorial: 1
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38264
+Factorial: 6
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38264
+Factorial: 2
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 720
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 120
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 1
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 5040
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 720
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 24
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 24
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 40320
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 24
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 5040
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 120
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 120
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 362880
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 120
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 120
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 40320
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 24
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 24
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 720
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 3628800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 720
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 120
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 5040
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 24
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 39916800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 40320
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 720
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 120
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 120
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 479001600
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 5040
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 362880
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 720
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 720
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6227020800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 362880
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 5040
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 5040
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 87178291200
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 5040
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 720
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 3628800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 40320
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 40320
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 40320
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 5040
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 720
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 1307674368000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 24
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 3628800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 39916800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 362880
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 362880
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 40320
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 39916800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 479001600
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 3628800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 20922789888000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 362880
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 40320
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 5040
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 120
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 479001600
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6227020800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 39916800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 3628800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 362880
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6227020800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 87178291200
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 479001600
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 87178291200
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 1307674368000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 1307674368000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 20922789888000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6227020800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 39916800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 3628800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 355687428096000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 3628800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 362880
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 40320
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 720
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 20922789888000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 355687428096000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 87178291200
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 479001600
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 39916800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6402373705728000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 39916800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 3628800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 362880
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 5040
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 355687428096000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6402373705728000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 1307674368000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6227020800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 479001600
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 121645100408832000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 479001600
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 39916800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 3628800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 40320
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6402373705728000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 121645100408832000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 20922789888000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 87178291200
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6227020800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2432902008176640000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6227020800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 479001600
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 39916800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 362880
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 121645100408832000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2432902008176640000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 355687428096000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 1307674368000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 87178291200
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 87178291200
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6227020800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 479001600
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 3628800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2432902008176640000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6402373705728000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 20922789888000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 1307674368000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 1307674368000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 87178291200
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6227020800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 39916800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 121645100408832000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 355687428096000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 20922789888000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 20922789888000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 1307674368000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 87178291200
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 479001600
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2432902008176640000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6402373705728000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 355687428096000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 355687428096000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 20922789888000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 1307674368000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6227020800
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 121645100408832000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6402373705728000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6402373705728000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 355687428096000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 20922789888000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 87178291200
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2432902008176640000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 121645100408832000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 121645100408832000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6402373705728000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 355687428096000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 1307674368000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2432902008176640000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2432902008176640000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 121645100408832000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6402373705728000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 20922789888000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2432902008176640000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 121645100408832000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 355687428096000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2432902008176640000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 6402373705728000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 121645100408832000
+
+From Client Thread: 140027723069248
+Client Address: 127.0.0.1
+Client Port: 38272
+Factorial: 2432902008176640000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57822
+Factorial: 1
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57854
+Factorial: 1
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57866
+Factorial: 1
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57866
+Factorial: 1
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57866
+Factorial: 2
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57866
+Factorial: 2
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57866
+Factorial: 6
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57866
+Factorial: 6
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57866
+Factorial: 2
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 2
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 1
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 24
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 6
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 6
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 24
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 120
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 24
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 2
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 720
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 120
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 120
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 720
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 6
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 5040
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 720
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 5040
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57880
+Factorial: 24
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57886
+Factorial: 40320
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57902
+Factorial: 40320
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57902
+Factorial: 5040
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57902
+Factorial: 1
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57902
+Factorial: 120
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 1
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 720
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 24
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 2
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 1
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 362880
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 2
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 5040
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 120
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 6
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 2
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 3628800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 6
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 40320
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 720
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 24
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57910
+Factorial: 362880
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57912
+Factorial: 120
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57912
+Factorial: 39916800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57912
+Factorial: 40320
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57912
+Factorial: 3628800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57912
+Factorial: 479001600
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57912
+Factorial: 39916800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 24
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 362880
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 362880
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 720
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 1
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 3628800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 5040
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 3628800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 479001600
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6227020800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 39916800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6227020800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 87178291200
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 120
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 1
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 40320
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 2
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 479001600
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 5040
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 1307674368000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 39916800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 87178291200
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 20922789888000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6227020800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 362880
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 24
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 479001600
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 720
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 355687428096000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 87178291200
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 3628800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 40320
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6402373705728000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 1307674368000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 1307674368000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 121645100408832000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 20922789888000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 39916800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 362880
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 5040
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 20922789888000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 24
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 2
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6227020800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 120
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 355687428096000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 479001600
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 3628800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 40320
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6402373705728000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6227020800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 39916800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 362880
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 720
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 87178291200
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 2432902008176640000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 121645100408832000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 355687428096000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 1307674368000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 87178291200
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 479001600
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 3628800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 120
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 5040
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 2432902008176640000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6402373705728000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 1307674368000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6227020800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 39916800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 24
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 40320
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 121645100408832000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 20922789888000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 720
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 120
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 2432902008176640000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 355687428096000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 5040
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 362880
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 87178291200
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 20922789888000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 40320
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 3628800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6402373705728000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 720
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 355687428096000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 121645100408832000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 362880
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 39916800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 5040
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6402373705728000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 1307674368000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 479001600
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 3628800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 479001600
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 121645100408832000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 2432902008176640000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 20922789888000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6227020800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 40320
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 39916800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6227020800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 2432902008176640000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 362880
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 87178291200
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 479001600
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 355687428096000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6227020800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 3628800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 1307674368000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6402373705728000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 87178291200
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 87178291200
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 39916800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 20922789888000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 121645100408832000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 1307674368000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 1307674368000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 479001600
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 355687428096000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 2432902008176640000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 20922789888000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 20922789888000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6227020800
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6402373705728000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 355687428096000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 355687428096000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 87178291200
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 121645100408832000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6402373705728000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 121645100408832000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6402373705728000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 1307674368000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 2432902008176640000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 2432902008176640000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 121645100408832000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 20922789888000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 355687428096000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 2432902008176640000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 6402373705728000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 121645100408832000
+
+From Client Thread: 140260031993664
+Client Address: 127.0.0.1
+Client Port: 57926
+Factorial: 2432902008176640000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53282
+Factorial: 1
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53284
+Factorial: 2
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53290
+Factorial: 1
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53290
+Factorial: 6
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53294
+Factorial: 1
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53294
+Factorial: 24
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53294
+Factorial: 2
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53294
+Factorial: 6
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53294
+Factorial: 120
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53294
+Factorial: 2
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53312
+Factorial: 1
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 6
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 1
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 2
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 1
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 24
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 2
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 6
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 2
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 120
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 6
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 720
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 24
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 24
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53320
+Factorial: 6
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53332
+Factorial: 1
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53344
+Factorial: 5040
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53344
+Factorial: 120
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53344
+Factorial: 120
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53344
+Factorial: 1
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 1
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 40320
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 720
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 720
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 24
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 1
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 362880
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 24
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 5040
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 720
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 5040
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 120
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 24
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 3628800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 120
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 40320
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 40320
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 5040
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 39916800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 362880
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 120
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 24
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 40320
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 720
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 362880
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 479001600
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 120
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 3628800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 362880
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 5040
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 24
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 720
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 720
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 3628800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6227020800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 720
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 39916800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 3628800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 40320
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 39916800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 39916800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 120
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 87178291200
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 5040
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 479001600
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 479001600
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 24
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 5040
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 362880
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 5040
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 479001600
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 720
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 1307674368000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 40320
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6227020800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6227020800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 120
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 40320
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 3628800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 40320
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6227020800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 5040
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 20922789888000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 362880
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 87178291200
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 87178291200
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 720
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 362880
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 39916800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 362880
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 87178291200
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 40320
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 355687428096000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 3628800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 1307674368000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 1307674368000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 5040
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 3628800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 479001600
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 3628800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 1307674368000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 362880
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6402373705728000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 39916800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 20922789888000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 20922789888000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 40320
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 39916800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6227020800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 39916800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 20922789888000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 3628800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 121645100408832000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 479001600
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 355687428096000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 355687428096000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 362880
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 479001600
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 87178291200
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 479001600
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 355687428096000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 39916800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2432902008176640000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6227020800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6402373705728000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6402373705728000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 3628800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6227020800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 1307674368000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6227020800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6402373705728000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 479001600
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 87178291200
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 121645100408832000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 121645100408832000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 39916800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 87178291200
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 20922789888000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 87178291200
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 121645100408832000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6227020800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 1307674368000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2432902008176640000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2432902008176640000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 479001600
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 1307674368000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 355687428096000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 1307674368000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2432902008176640000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 87178291200
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 20922789888000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6227020800
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 20922789888000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6402373705728000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 20922789888000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 1307674368000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 355687428096000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 87178291200
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 355687428096000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 121645100408832000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 355687428096000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 20922789888000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6402373705728000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 1307674368000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6402373705728000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2432902008176640000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6402373705728000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 355687428096000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 121645100408832000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 20922789888000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 121645100408832000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 121645100408832000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6402373705728000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2432902008176640000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 355687428096000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2432902008176640000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2432902008176640000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 121645100408832000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 6402373705728000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2432902008176640000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 121645100408832000
+
+From Client Thread: 140716443060032
+Client Address: 127.0.0.1
+Client Port: 53354
+Factorial: 2432902008176640000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47256
+Factorial: 1
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47256
+Factorial: 1
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47292
+Factorial: 2
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47292
+Factorial: 1
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 1
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 1
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 2
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 2
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 6
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 2
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 6
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 2
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 24
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 6
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 24
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 6
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 120
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 24
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47308
+Factorial: 120
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47340
+Factorial: 24
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47340
+Factorial: 6
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47340
+Factorial: 720
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47340
+Factorial: 1
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47270
+Factorial: 120
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47270
+Factorial: 1
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47270
+Factorial: 720
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47270
+Factorial: 120
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47312
+Factorial: 1
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47312
+Factorial: 5040
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47312
+Factorial: 24
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47312
+Factorial: 720
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47312
+Factorial: 5040
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 1
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 720
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 40320
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 120
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 5040
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 40320
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 5040
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 362880
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 40320
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 720
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 40320
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 3628800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 24
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 362880
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 39916800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 120
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 3628800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 362880
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 362880
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 5040
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 1
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 479001600
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 39916800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 24
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 24
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 720
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 24
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 3628800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 3628800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 40320
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6227020800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 479001600
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 120
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 120
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 5040
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 120
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 39916800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 39916800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 362880
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 87178291200
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6227020800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 720
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 720
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 479001600
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 479001600
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 720
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 3628800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 1307674368000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 40320
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 87178291200
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 5040
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6227020800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 39916800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 5040
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 20922789888000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 362880
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 1307674368000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 40320
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 40320
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 355687428096000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 3628800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 20922789888000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 362880
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6402373705728000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 3628800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 355687428096000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 39916800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 121645100408832000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 479001600
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 362880
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6402373705728000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2432902008176640000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6227020800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 39916800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 3628800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 121645100408832000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6227020800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 24
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 479001600
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 87178291200
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 87178291200
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 5040
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 39916800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2432902008176640000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 479001600
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 87178291200
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6227020800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 120
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 1307674368000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 1307674368000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 40320
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 479001600
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6227020800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 1307674368000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 87178291200
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 720
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 20922789888000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 20922789888000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 362880
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6227020800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 87178291200
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 20922789888000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 1307674368000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 5040
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 355687428096000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 355687428096000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 3628800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 87178291200
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 1307674368000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 355687428096000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 20922789888000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 40320
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6402373705728000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6402373705728000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 39916800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 1307674368000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 20922789888000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6402373705728000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 362880
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 355687428096000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 121645100408832000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 121645100408832000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 479001600
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 20922789888000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 355687428096000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 121645100408832000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 3628800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6402373705728000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2432902008176640000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2432902008176640000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6227020800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 355687428096000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6402373705728000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2432902008176640000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 39916800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 121645100408832000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 87178291200
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6402373705728000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 121645100408832000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2432902008176640000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 479001600
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 1307674368000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 121645100408832000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2432902008176640000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6227020800
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 20922789888000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2432902008176640000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 87178291200
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 355687428096000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6402373705728000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 1307674368000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 121645100408832000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2432902008176640000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 20922789888000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 355687428096000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 6402373705728000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 121645100408832000
+
+From Client Thread: 140372139939648
+Client Address: 127.0.0.1
+Client Port: 47350
+Factorial: 2432902008176640000
+
