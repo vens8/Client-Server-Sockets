@@ -1,5 +1,5 @@
 # Client-Server Sockets
-Various client-server sockets made in C as part of CN assignment.
+Various client-server programs made in C as part of CN assignment (Socket Programming).
 
 # Repo Hierarchy
 ```bash
