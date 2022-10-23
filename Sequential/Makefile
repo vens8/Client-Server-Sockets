@@ -1,6 +1,6 @@
 vens8:
-	gcc SS.c -o SS
-	gcc SC.c -o SC
+	gcc Server.c -o SS
+	gcc Client.c -o SC
 	sleep 1
 	xterm -geometry 150x32 -T "Server" -n "Server P1" -bg black -fg yellow -e bash -c './SS; exec bash' &
 	sleep 1
