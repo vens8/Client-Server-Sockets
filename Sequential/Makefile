@@ -1,4 +1,4 @@
-vens8:
+sequential:
 	gcc Server.c -o SS
 	gcc Client.c -o SC
 	sleep 1
