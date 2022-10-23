@@ -40,26 +40,26 @@ int main()
 
 	for (int i = 1; i <= 20; i++) {
 
-        sprintf(buffer, "%d", i);
-        printf("Sending to server: %s\n", buffer);
+		sprintf(buffer, "%d", i);
+		printf("Sending to server: %s\n", buffer);
 
 		// Send request and message to client
 		int sendStatus = write(clientSocket, buffer, sizeof(buffer));
-        if (sendStatus == -1) {
-            perror("Failed to send request to server!\n");
-        }
+		if (sendStatus == -1) {
+			perror("Failed to send request to server!\n");
+		}
 
 		// Clear buffer
-        bzero(buffer, sizeof(buffer));
+		bzero(buffer, sizeof(buffer));
 
 		// Receive response from client
 		int readStatus = read(clientSocket, buffer, sizeof(buffer));
-        if (readStatus == -1) {
-            perror("Failed to read response from server!\n");
-        }
-        else
-		    printf("Response from server: %s\n", buffer);
-
+		if (readStatus == -1) {
+			perror("Failed to read response from server!\n");
+		}
+		else {
+			printf("Response from server: %s\n", buffer);
+		}
 	}
 
 	// close the socket
