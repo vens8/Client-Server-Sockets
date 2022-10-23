@@ -24,16 +24,21 @@ long factorial(int x) {
 int main()
 {
     char buffer[MAX];
-    int serverSocket, clientSocket;
+    int serverSocket, clientSocket, flag = 1;
     struct sockaddr_in serverAddress, clientAddress;
     socklen_t clientLength;
     FILE *results;
 
     serverSocket = socket(AF_INET, SOCK_STREAM, 0);
 	if (serverSocket < 0) {
-		printf("Couldn't create server socket!\n");
-		exit(1);
+		perror("Couldn't create server socket!\n");
+		exit(0);
 	}
+
+    if (setsockopt(serverSocket, SOL_SOCKET, SO_REUSEADDR, &flag, sizeof(flag)) < 0) {
+        perror("Couldn't set socket options!\n");
+        exit(0);
+    }
 	printf("Successfully created a server socket.\n");
 	
     bzero(&serverAddress, sizeof(serverAddress));
@@ -45,19 +50,19 @@ int main()
 
 	// Binding the socket to specified IP and port
 	if ((bind(serverSocket, (struct sockaddr *) &serverAddress, sizeof(serverAddress))) != 0) {
-		printf("Bind failed!\n");
+		perror("Bind failed!\n");
 		exit(0);
 	}
 	printf("Socket binding complete.\n");
 
 	// Listen for up to 10 clients
 	if ((listen(serverSocket, 10)) != 0) {
-		printf("Listen failed!\n");
+		perror("Listen failed!\n");
 		exit(0);
 	}
-	else
-		printf("Server listening...\n");
+	printf("Server listening...\n");
 
+    // Infinite loop to keep server running
     while(1) {
         // Accept a client
         clientSocket = accept(serverSocket, (struct sockaddr *) &clientAddress, &clientLength);
@@ -99,5 +104,5 @@ int main()
 
 	// Close server socket after handling all requests
 	close(serverSocket);
-    	return 0;
+    return 0;
 }
